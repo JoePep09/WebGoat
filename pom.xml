@@ -7,6 +7,7 @@
     <artifactId>webgoat-parent</artifactId>
     <packaging>pom</packaging>
     <version>${revision}</version>
+	
 
     <name>WebGoat Parent Pom</name>
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
